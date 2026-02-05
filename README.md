@@ -49,13 +49,23 @@ This provides a working example of a chatbot, helping Scouts connect AI concepts
 
 ---
 
-## 🔐 Why This Version Has No API Key
+## 🔐 API Key Responsibility and Safety
 
-This notebook is intentionally designed without requiring an API key so that:
+This notebook is intentionally structured so that **Scouts do NOT use a shared or embedded API key**.
 
-- Scouts can focus on learning concepts, not setup complexity
-- The example is safe, simple, and educational
-- It can be used easily in classrooms, workshops, or Merit Badge sessions
+Instead:
+
+- Scouts are expected to **obtain their own API key** with the **knowledge and help of a parent or guardian**
+- This reinforces **online safety, privacy, and digital responsibility**
+- Each Scout learns that real-world AI tools require:
+  - proper authorization,
+  - responsible use,
+  - and protection of private credentials
+- The notebook demonstrates **where an API key is used** without hard-coding one, so Scouts understand:
+  - why keys must be kept secret
+  - and how professionals manage access securely
+
+This approach aligns with the **spirit of Scouting**, emphasizing responsibility, ethics, and safe technology use while learning how modern AI systems work.
 
 ---
 
